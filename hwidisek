@@ -3,5 +3,10 @@
         "length": "7 days",
         "startDate": "2024-07-11T00:00:00Z",
         "endDate": "2024-07-18T00:00:00Z"
+    },
+    "cda93af1-911e-46fc-9c09-c3dcc5496a63": {
+        "length": "7 days",
+        "startDate": "2024-07-12T00:00:00Z",
+        "endDate": "2024-07-19T00:00:00Z"
     }
 }
