@@ -18,10 +18,5 @@
         "length": "14 days",
         "startDate": "2024-07-12T00:00:00Z",
         "endDate": "2024-07-26T00:00:00Z"
-    },
-    "CA490D94-6251-4551-92C5-2313BD402FB8": {
-        "length": "lifetime",
-        "startDate": "2024-07-12T00:00:00Z",
-        "endDate": null
     }
 }
