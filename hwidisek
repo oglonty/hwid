@@ -43,10 +43,5 @@
         "length": "lifetime",
         "startDate": "2024-07-12T00:00:00Z",
         "endDate": null
-    },
-    "AF9A9E34-8572-432B-A6A7-368544F61B13": {
-        "length": "7 days",
-        "startDate": "2024-07-12T00:00:00Z",
-        "endDate": "2024-07-19T00:00:00Z"
     }
 }
