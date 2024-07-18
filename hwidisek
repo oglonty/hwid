@@ -1,8 +1,8 @@
 {
     "39A8F6C4-AFB5-4008-A943-157C540ECA96": {
-        "length": "7 days",
+        "length": "lifetime",
         "startDate": "2024-07-11T00:00:00Z",
-        "endDate": "2024-07-18T00:00:00Z"
+        "endDate": null
     },
     "cda93af1-911e-46fc-9c09-c3dcc5496a63": {
         "length": "7 days",
