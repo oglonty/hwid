@@ -60,8 +60,8 @@
         "endDate": null
     },
     "73AF8523-676C-4FE3-8209-1CFB857EAE8A": {
-        "length": "7 days",
+        "length": "lifetime",
         "startDate": "2024-07-12T00:00:00Z",
-        "endDate": "2024-07-19T00:00:00Z"
+        "endDate": null
     }
 }
